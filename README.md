@@ -28,3 +28,7 @@ jupyter notebook
 This is educational material, not investment advice. The strategies shown are intentionally simple (no transaction costs, no slippage, short backtest windows) and are meant to illustrate concepts, not to be traded.
 
 Workshop 2 in particular optimizes its strategy parameters and evaluates them on the same data, with no train/test split — a textbook setup for overfitting. Its grid search is there to show *how* parameter optimization works, not as evidence that the resulting parameters would hold up on unseen data. The leverage used in that notebook (up to 10x) is likewise only there to make a $100 toy backtest move, not a realistic risk setting.
+
+## License
+
+[MIT](LICENSE) — reuse it, adapt it, just keep the credit.
