@@ -1,0 +1,14 @@
+numpy==2.2.6
+pandas==3.0.6
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+kaleido==1.4.0
+yfinance==1.7.0
+pandas-ta==0.4.71b0
+backtesting==0.6.6
+jupyter==1.1.1
+notebook==7.6.3
+nbconvert==7.17.1
+ipykernel==7.3.0
